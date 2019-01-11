@@ -1,0 +1,59 @@
+
+
+h1,h2{
+  font-family: 'Playfair Display', serif;
+  color:#403c3c;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size:14px;
+  color:#403c3c;
+}
+
+.navbar-default{
+  background:#fff;
+  border:0;
+  font-family: 'Montserrat', sans-serif;
+  color:#403c3c;
+}
+
+
+#home h1{
+  font-size:100px;
+  margin-bottom:20px;
+}
+
+#home img{
+  width:100%;
+  margin-bottom:20px;
+}
+
+#home .home-right{
+  margin-left:10px;
+
+}
+
+#work .work-left{
+  margin-top:130px;
+  margin-left:10px;
+}
+
+#article .article-right{
+  margin-top:60px;
+}
+
+
+#about .about-right{
+  margin-top:70px;
+  margin-left:10px;
+}
+
+
+
+#contact{
+  padding:40px;
+  color:#fff;
+}
+
+
